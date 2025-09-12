@@ -3,23 +3,23 @@ This repository contains all the resources related to my Bachelor’s Thesis pro
 
 ## 📂 Repository Structure
 
-- **`kicad_files/`**  
+- **`Kicad_files/`**  
   Contains the **circuit design and PCB layout files** created with KiCad.  
   This includes schematics, board layouts, and related project files.  
 
-- **`ltspice_sims/`**  
+- **`LTspice_files/`**  
   Includes **LTspice simulation files (`.asc`)** used to verify the proper functioning of the circuit before building it physically.  
   ⚠️ Note: raw output data files (`.txt`) from simulations are not included here due to their large size.  
 
-- **`python_scripts/`**  
+- **`Python_scripts/`**  
   Contains **Python scripts** related to the ESP32-C3 microcontroller and additional data analysis:  
   - Firmware code (MicroPython) for signal acquisition and Wi-Fi communication.  
   - Python code for plotting and analyzing simulation results.  
 
-- **`docs/`**  
+- **`Docs/`**  
   Miscellaneous **documents related to the project**, such as draft reports, additional notes, and supporting files.  
 
-- **`photos/`**  
+- **`Photos/`**  
   Contains **pictures of the physical project**, including the circuit assembly, soldering process, oscilloscope captures, and other relevant images.  
 
 ---
